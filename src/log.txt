@@ -1,0 +1,126 @@
+	Veículo ID 867530912 adicionado.
+Altura da árvore: 0.
+	Veículo ID 249876530 adicionado.
+Altura da árvore: 1.
+	Veículo ID 431279865 adicionado.
+Rotação Direita Dupla.
+Altura da árvore: 2.
+	Veículo ID 785043216 adicionado.
+Altura da árvore: 2.
+	Veículo ID 592187643 adicionado.
+Rotação Direita Simples.
+Altura da árvore: 2.
+	Veículo ID 356908124 adicionado.
+Altura da árvore: 2.
+	Veículo ID 678459231 adicionado.
+Altura da árvore: 3.
+	Veículo ID 123587690 adicionado.
+Altura da árvore: 3.
+	Veículo ID 984021356 adicionado.
+Altura da árvore: 3.
+	Veículo ID 746205891 adicionado.
+Rotação Esquerda Simples.
+Altura da árvore: 3.
+	Veículo ID 315892467 adicionado.
+Altura da árvore: 3.
+	Veículo ID 650198432 adicionado.
+Altura da árvore: 4.
+	Veículo ID 879642310 adicionado.
+Rotação Esquerda Dupla.
+Altura da árvore: 4.
+	Veículo ID 524769013 adicionado.
+Altura da árvore: 4.
+	Veículo ID 167398245 adicionado.
+Altura da árvore: 4.
+	Veículo ID 390847516 adicionado.
+Altura da árvore: 4.
+	Veículo ID 218643759 adicionado.
+Rotação Esquerda Simples.
+Altura da árvore: 4.
+	Veículo ID 467931028 adicionado.
+Rotação Direita Simples.
+Altura da árvore: 4.
+	Veículo ID 859034162 adicionado.
+Altura da árvore: 4.
+	Veículo ID 712406935 adicionado.
+Rotação Esquerda Dupla.
+Altura da árvore: 5.
+	Veículo ID 230915678 adicionado.
+Rotação Direita Simples.
+Altura da árvore: 4.
+	Veículo ID 582630194 adicionado.
+Altura da árvore: 4.
+	Veículo ID 946701823 adicionado.
+Altura da árvore: 4.
+	Veículo ID 174398562 adicionado.
+Altura da árvore: 4.
+	Veículo ID 310275489 adicionado.
+Altura da árvore: 5.
+	Veículo ID 684931027 adicionado.
+Rotação Direita Simples.
+Altura da árvore: 5.
+	Veículo ID 542109783 adicionado.
+Altura da árvore: 5.
+	Veículo ID 890156342 adicionado.
+Rotação Direita Simples.
+Altura da árvore: 5.
+	Veículo ID 765498201 adicionado.
+Rotação Esquerda Simples.
+Altura da árvore: 5.
+	Veículo ID 923615874 adicionado.
+Altura da árvore: 5.
+	Veículo ID 439802156 adicionado.
+Altura da árvore: 5.
+	Veículo ID 207584316 adicionado.
+Rotação Esquerda Dupla.
+Altura da árvore: 5.
+	Veículo ID 681023495 adicionado.
+Altura da árvore: 5.
+	Veículo ID 153496728 adicionado.
+Rotação Direita Dupla.
+Altura da árvore: 5.
+	Veículo ID 720185634 adicionado.
+Altura da árvore: 5.
+	Veículo ID 368972451 adicionado.
+Altura da árvore: 5.
+	Veículo ID 596734028 adicionado.
+Altura da árvore: 5.
+	Veículo ID 817362594 adicionado.
+Rotação Direita Simples.
+Altura da árvore: 5.
+	Veículo ID 265487903 adicionado.
+Rotação Direita Simples.
+Altura da árvore: 5.
+	Veículo ID 903124875 adicionado.
+Rotação Esquerda Dupla.
+Altura da árvore: 5.
+	Veículo ID 481753296 adicionado.
+Altura da árvore: 5.
+	Veículo ID 637218945 adicionado.
+Rotação Direita Dupla.
+Altura da árvore: 5.
+	Veículo ID 129546780 adicionado.
+Altura da árvore: 5.
+	Veículo ID 874062931 adicionado.
+Altura da árvore: 5.
+	Veículo ID 356821407 adicionado.
+Altura da árvore: 6.
+	Veículo ID 984370215 adicionado.
+Altura da árvore: 6.
+	Veículo ID 524896703 adicionado.
+Rotação Direita Simples.
+Altura da árvore: 6.
+	Veículo ID 769230158 adicionado.
+Altura da árvore: 6.
+	Veículo ID 210395687 adicionado.
+Altura da árvore: 6.
+	Veículo ID 643810972 adicionado.
+Altura da árvore: 6.
+	Veículo ID 890156315 adicionado.
+Altura da árvore: 6.
+	Veículo ID 193395245 adicionado.
+Altura da árvore: 6.
+Veículo ID 890156342 removido.
+Veículo ID 265487903 removido.
+Rotação Esquerda Simples.
+Quantidade de Rotações durante a execução: 26
