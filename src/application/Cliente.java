@@ -1,10 +1,10 @@
-package entity;
+package application;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-import application.Protocolo;
-
+import entity.Condutor;
+import entity.Veiculo;
 import exceptions.SameKeyException;
 import exceptions.WrongInsertException;
 

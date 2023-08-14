@@ -116,11 +116,7 @@ Altura da árvore: 6.
 Altura da árvore: 6.
 	Veículo ID 643810972 adicionado.
 Altura da árvore: 6.
-	Veículo ID 890156315 adicionado.
+	Veículo ID 368272451 adicionado.
+Rotação Direita Simples.
 Altura da árvore: 6.
-	Veículo ID 193395245 adicionado.
-Altura da árvore: 6.
-Veículo ID 890156342 removido.
-Veículo ID 265487903 removido.
-Rotação Esquerda Simples.
 Quantidade de Rotações durante a execução: 26
